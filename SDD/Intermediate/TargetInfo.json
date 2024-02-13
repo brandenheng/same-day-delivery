@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PROSDD",
+			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PROSDDEditor",
+			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

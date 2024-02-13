@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\bh29935\\documents\\unreal projects\\prosdd\\source\\prosdd\\prosddgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bh29935\\documents\\unreal projects\\prosdd\\intermediate\\build\\win64\\prosddeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\bh29935\\documents\\unreal projects\\prosdd\\intermediate\\build\\win64\\unrealeditor\\development\\prosdd\\definitions.prosdd.h",
+            "c:\\users\\bh29935\\documents\\unreal projects\\prosdd\\source\\prosdd\\prosddgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\bh29935\\documents\\unreal projects\\prosdd\\intermediate\\build\\win64\\unrealeditor\\inc\\prosdd\\prosddgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

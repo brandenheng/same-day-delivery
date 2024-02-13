@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PROSDD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\MyCharacter.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDD.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\MyCharacter.gen.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDD.init.gen.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.obj"
+"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\Default.rc2.res"
+/OUT:"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\UnrealEditor-PROSDD.lib"

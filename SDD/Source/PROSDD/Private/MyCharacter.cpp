@@ -1,34 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "MyCharacter.h"
-
-// Sets default values
-AMyCharacter::AMyCharacter()
-{
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
-}
-
-// Called when the game starts or when spawned
-void AMyCharacter::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
-// Called every frame
-void AMyCharacter::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
-// Called to bind functionality to input
-void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
-{
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-	
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9059a453db984ae2a6e7d026141a1b67aba86937dc5d5d34cae12140b32791a2
+size 747

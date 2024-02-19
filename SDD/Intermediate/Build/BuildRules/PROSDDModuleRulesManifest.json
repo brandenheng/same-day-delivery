@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDD\\PROSDD.Build.cs",
-		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDD.Target.cs",
-		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDDEditor.Target.cs"
+		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\same-day-delivery\\SDD\\Source\\PROSDD\\PROSDD.Build.cs",
+		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\same-day-delivery\\SDD\\Source\\PROSDD.Target.cs",
+		"C:\\Users\\bh29935\\Documents\\Unreal Projects\\same-day-delivery\\SDD\\Source\\PROSDDEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

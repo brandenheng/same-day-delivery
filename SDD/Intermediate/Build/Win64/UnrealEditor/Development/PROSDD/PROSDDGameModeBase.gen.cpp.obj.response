@@ -1,6 +1,6 @@
-"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Inc\PROSDD\PROSDDGameModeBase.gen.cpp"
+"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\UnrealEditor\Inc\PROSDD\PROSDDGameModeBase.gen.cpp"
 /I .
-/I "C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Source\PROSDD\Private"
+/I "C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Source\PROSDD\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
 /I ..\Shaders\Shared
@@ -252,9 +252,9 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I "C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Inc\PROSDD"
-/I "C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Source"
-/I "C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Source\PROSDD\Public"
+/I "C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\UnrealEditor\Inc\PROSDD"
+/I "C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Source"
+/I "C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Source\PROSDD\Public"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -275,12 +275,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\Definitions.PROSDD.h"
-/Yu"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.obj"
-/sourceDependencies "C:\Users\bh29935\Documents\Unreal Projects\PROSDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.json"
+/FI"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\Definitions.PROSDD.h"
+/Yu"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\PROSDDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.obj"
+/sourceDependencies "C:\Users\bh29935\Documents\Unreal Projects\same-day-delivery\SDD\Intermediate\Build\Win64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.json"
 /Zc:inline
 /nologo
 /Oi

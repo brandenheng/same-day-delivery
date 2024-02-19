@@ -44,12 +44,18 @@
     <Filter Include="Source\PROSDD\Private">
       <UniqueIdentifier>{F093C3A8-F76A-3B2C-B2F9-33A356F6CF42}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PROSDD\Private\ChatGPT4_MyCustomActor.cpp">
+      <Filter>Source\PROSDD\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\PROSDD\Private\MyCharacter.cpp">
       <Filter>Source\PROSDD\Private</Filter>
     </ClCompile>
     <Filter Include="Source\PROSDD\Public">
       <UniqueIdentifier>{099F3106-5CD9-3E8C-881A-C486A5729BE0}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\PROSDD\Public\ChatGPT4_MyCustomActor.h">
+      <Filter>Source\PROSDD\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\PROSDD\Public\MyCharacter.h">
       <Filter>Source\PROSDD\Public</Filter>
     </ClInclude>

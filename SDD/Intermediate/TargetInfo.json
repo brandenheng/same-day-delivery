@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "PROSDD",
-			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDD.Target.cs",
+			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\same-day-delivery\\SDD\\Source\\PROSDD.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "PROSDDEditor",
-			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\PROSDD\\Source\\PROSDDEditor.Target.cs",
+			"Path": "C:\\Users\\bh29935\\Documents\\Unreal Projects\\same-day-delivery\\SDD\\Source\\PROSDDEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

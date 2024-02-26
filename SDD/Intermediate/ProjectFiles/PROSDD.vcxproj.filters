@@ -23,6 +23,15 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\PROSDD">
       <UniqueIdentifier>{39D43229-B8B5-30D9-9C27-DD609B92FFFF}</UniqueIdentifier>
     </Filter>
@@ -47,6 +56,9 @@
     <ClCompile Include="..\..\Source\PROSDD\Private\ChatGPT4_MyCustomActor.cpp">
       <Filter>Source\PROSDD\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\PROSDD\Private\CPP_MyGameModeBase.cpp">
+      <Filter>Source\PROSDD\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\PROSDD\Private\MyCharacter.cpp">
       <Filter>Source\PROSDD\Private</Filter>
     </ClCompile>
@@ -54,6 +66,9 @@
       <UniqueIdentifier>{099F3106-5CD9-3E8C-881A-C486A5729BE0}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\PROSDD\Public\ChatGPT4_MyCustomActor.h">
+      <Filter>Source\PROSDD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PROSDD\Public\CPP_MyGameModeBase.h">
       <Filter>Source\PROSDD\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\PROSDD\Public\MyCharacter.h">

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\bh29935\\documents\\unreal projects\\same-day-delivery\\sdd\\source\\prosdd\\private\\chatgpt4_mycustomactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bh29935\\documents\\unreal projects\\same-day-delivery\\sdd\\intermediate\\build\\win64\\prosddeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\bh29935\\documents\\unreal projects\\same-day-delivery\\sdd\\intermediate\\build\\win64\\unrealeditor\\development\\prosdd\\definitions.prosdd.h",
+            "c:\\users\\bh29935\\documents\\unreal projects\\same-day-delivery\\sdd\\source\\prosdd\\public\\chatgpt4_mycustomactor.h",
+            "c:\\users\\bh29935\\documents\\unreal projects\\same-day-delivery\\sdd\\intermediate\\build\\win64\\unrealeditor\\inc\\prosdd\\chatgpt4_mycustomactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

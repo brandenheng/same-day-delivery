@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{12E6E0EC-FE4D-361A-8011-C5B9FD1CE459}</ProjectGuid>
+    <ProjectGuid>{89E7EC22-E988-38A3-9231-8D6A559815CF}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>PROSDD</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

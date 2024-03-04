@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PROSDD.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PROSDD.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PROSDDEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\PROSDD">
+      <UniqueIdentifier>{39D43229-B8B5-30D9-9C27-DD609B92FFFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PROSDD\PROSDD.Build.cs">
+      <Filter>Source\PROSDD</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PROSDD\PROSDD.cpp">
+      <Filter>Source\PROSDD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROSDD\PROSDD.h">
+      <Filter>Source\PROSDD</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROSDD\PROSDDGameModeBase.cpp">
+      <Filter>Source\PROSDD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROSDD\PROSDDGameModeBase.h">
+      <Filter>Source\PROSDD</Filter>
+    </ClInclude>
+    <Filter Include="Source\PROSDD\Private">
+      <UniqueIdentifier>{F093C3A8-F76A-3B2C-B2F9-33A356F6CF42}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PROSDD\Private\ChatGPT4_MyCustomActor.cpp">
+      <Filter>Source\PROSDD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PROSDD\Private\CPP_MyGameModeBase.cpp">
+      <Filter>Source\PROSDD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PROSDD\Private\MyCharacter.cpp">
+      <Filter>Source\PROSDD\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PROSDD\Public">
+      <UniqueIdentifier>{099F3106-5CD9-3E8C-881A-C486A5729BE0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PROSDD\Public\ChatGPT4_MyCustomActor.h">
+      <Filter>Source\PROSDD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PROSDD\Public\CPP_MyGameModeBase.h">
+      <Filter>Source\PROSDD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PROSDD\Public\MyCharacter.h">
+      <Filter>Source\PROSDD\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

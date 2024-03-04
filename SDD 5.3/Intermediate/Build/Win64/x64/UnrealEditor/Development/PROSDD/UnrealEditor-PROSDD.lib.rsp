@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PROSDD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\PROSDDEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\ChatGPT4_MyCustomActor.gen.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\CPP_MyGameModeBase.gen.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\MyCharacter.gen.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\PROSDD.init.gen.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.gen.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\PROSDD.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\PROSDDGameModeBase.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\ChatGPT4_MyCustomActor.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\CPP_MyGameModeBase.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\MyCharacter.cpp.obj"
+"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\Default.rc2.res"
+/OUT:"C:\Users\brand\Documents\GitHub\same-day-delivery\SDD 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROSDD\UnrealEditor-PROSDD.lib"

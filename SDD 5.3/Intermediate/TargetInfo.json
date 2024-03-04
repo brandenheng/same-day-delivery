@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PROSDD",
+			"Path": "..\\Source\\PROSDD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PROSDDEditor",
+			"Path": "..\\Source\\PROSDDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
